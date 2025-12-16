@@ -1,5 +1,4 @@
-package com.example;
-
+package contido_examen_t1.e3;
 public class Calculator {
 
     public int add(int a, int b) {
